@@ -1,0 +1,34 @@
+<！DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>ldk的支教经历</title>
+<style>
+body
+{
+	margin-left:10px;
+	background:orange;
+}
+
+.center_div
+{
+	border:1px solid black;
+	margin-left:auto;
+	margin-right:auto;
+	width:90%;
+	background-color:blue
+		;
+	text-align:left;
+	padding:8px;
+}
+</style>
+</head>
+
+<body>	
+<div class="center_div">
+<h1>准备阶段</h1>
+<p>首先要备课，其次是琢磨给小学生的上课风格，还有要和队友合作沟通。</p>
+</div>
+</div>
+</body>
+</html>
